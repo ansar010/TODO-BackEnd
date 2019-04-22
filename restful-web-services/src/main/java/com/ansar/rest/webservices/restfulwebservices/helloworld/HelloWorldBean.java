@@ -1,4 +1,4 @@
-package com.ansar.rest.webservices.restfulwebservices;
+package com.ansar.rest.webservices.restfulwebservices.helloworld;
 
 
 public class HelloWorldBean {
